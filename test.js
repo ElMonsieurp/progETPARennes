@@ -3,6 +3,10 @@ let uneAutre = 23;
 
 // ici c'est du commentaire
 
+var deux = 2;
+
+// j'ajoute un commentaire
 
 if (une!= uneAutre) {
+	var contenu = "blabla";
 }
